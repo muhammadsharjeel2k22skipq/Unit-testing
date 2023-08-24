@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LoginForm renders a login form correctly 1`] = `
+<input
+  class="p-2 w-[300px] outline-none border rounded-xl"
+  id="email"
+  name="email"
+  placeholder="Email..."
+  type="email"
+/>
+`;
